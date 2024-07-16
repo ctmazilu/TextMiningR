@@ -9,7 +9,7 @@ library(gutenbergr)
 #install.packages("tidytext")
 library(tidytext)
 
-#View(gutenberg_metadata)
+View(gutenberg_metadata)
 
 # Create a tibble
 gutenberg_metadata %>% 
